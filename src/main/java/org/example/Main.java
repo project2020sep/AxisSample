@@ -12,7 +12,7 @@ public class Main {
         DBCon.getConnection();
         StudentDAO dao = new StudentDAO();
         dao.getAll();
-
+/* changed main*/
     }
 
 
